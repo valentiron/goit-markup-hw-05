@@ -328,8 +328,10 @@ img {
   left:0;
   display: block;
   width: 100%;
-text-align: center;
-padding: 27px ;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 margin: auto 0;
 font-weight: 700;
   font-size: 14px;
